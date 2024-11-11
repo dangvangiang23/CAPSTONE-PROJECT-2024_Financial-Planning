@@ -8,7 +8,7 @@ Database: SQL Server, Redis
 Testing: Mockito, JUnit
 Email Integration: Gmail SMTP for automated notifications
 Roles & Responsibilities
-Roles
+**Roles** 
 Backend Developer
 Designed and developed backend APIs for core functionalities, including user and term management.
 Integrated Redis to improve performance and scalability for caching frequently accessed data.
