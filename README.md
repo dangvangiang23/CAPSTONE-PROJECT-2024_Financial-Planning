@@ -7,11 +7,15 @@
 - Database: SQL Server, Redis
 - Testing: Mockito, JUnit
 - Email Integration: Gmail SMTP for automated notifications
-Roles & Responsibilities
-**Roles** 
+- 
+**Roles & Responsibilities**
 * Backend Developer
 * Designed and developed backend APIs for core functionalities, including user and term management.
 * Integrated Redis to improve performance and scalability for caching frequently accessed data.
 * Tester
 * Created and executed unit tests using Mockito and JUnit for thorough testing of backend components.
 Conducted manual testing and documented test cases to ensure system reliability and accuracy.
+
+**Performance & Skills**
+Score: 8.3/10
+Core Skills: Java, Spring Boot, SQL, Redis, RESTful API Development, Email Integration (Gmail SMTP), Unit Testing with Mockito and JUnit, Business Analysis, Documentation, Manual Testing
