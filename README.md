@@ -9,13 +9,13 @@
 - Email Integration: Gmail SMTP for automated notifications
 - 
 **Roles & Responsibilities**
-* Backend Developer: Designed and developed backend APIs for core functionalities, including user and term management.
+* *Backend Developer*: Designed and developed backend APIs for core functionalities, including user and term management.
  Integrated Redis to improve performance and scalability for caching frequently accessed data.
  
-* Tester: Created and executed unit tests using Mockito and JUnit for thorough testing of backend components.
+* *Tester*: Created and executed unit tests using Mockito and JUnit for thorough testing of backend components.
 Conducted manual testing and documented test cases to ensure system reliability and accuracy.
 
-* Business Analyst (BA): Coordinated requirements gathering and refined features based on feedback.
+* *Business Analyst (BA)*: Coordinated requirements gathering and refined features based on feedback.
 
 **Performance & Skills**
 
