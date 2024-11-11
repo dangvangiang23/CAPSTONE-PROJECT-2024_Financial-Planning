@@ -1,5 +1,5 @@
 # **Project Overview** 
-- This project is a Financial Planning System (FPS) aimed at streamlining financial plan approvals, enhancing inter-departmental communication, and providing a user-friendly platform for planning and reporting. The system has been developed with a focus on user and term management, providing a structured API and email notifications for efficient communication.
+ This project is a Financial Planning System (FPS) aimed at streamlining financial plan approvals, enhancing inter-departmental communication, and providing a user-friendly platform for planning and reporting. The system has been developed with a focus on user and term management, providing a structured API and email notifications for efficient communication.
 
 **Tech Stack**
 - Backend: Java, Spring Boot
