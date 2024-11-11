@@ -17,5 +17,5 @@
 Conducted manual testing and documented test cases to ensure system reliability and accuracy.
 
 **Performance & Skills**
-Score: 8.3/10
+Score: *8.3/10*
 Core Skills: Java, Spring Boot, SQL, Redis, RESTful API Development, Email Integration (Gmail SMTP), Unit Testing with Mockito and JUnit, Business Analysis, Documentation, Manual Testing
