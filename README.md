@@ -19,7 +19,7 @@
 Conducted manual testing and documented test cases to ensure system reliability and accuracy.
 
 * Business Analyst (BA)
-* 
+  
 Coordinated requirements gathering and refined features based on feedback.
 
 **Performance & Skills**
