@@ -1,6 +1,6 @@
 # **Project Overview** 
  This project is a Financial Planning System (FPS) aimed at streamlining financial plan approvals, enhancing inter-departmental communication, and providing a user-friendly platform for planning and reporting. 
-
+**Slide** :https://www.canva.com/design/DAHAgo7exuM/nMsQeL3PZOdRtFlcVJOqBA/edit?utm_content=DAHAgo7exuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 **Tech Stack**
 - Backend: Java, Spring Boot
 - Frontend: React
