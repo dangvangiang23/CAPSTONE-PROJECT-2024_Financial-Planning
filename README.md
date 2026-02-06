@@ -1,6 +1,7 @@
 # **Project Overview** 
  This project is a Financial Planning System (FPS) aimed at streamlining financial plan approvals, enhancing inter-departmental communication, and providing a user-friendly platform for planning and reporting. 
 **Slide** :https://www.canva.com/design/DAHAgo7exuM/nMsQeL3PZOdRtFlcVJOqBA/edit?utm_content=DAHAgo7exuM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 **Tech Stack**
 - Backend: Java, Spring Boot
 - Frontend: React
@@ -21,4 +22,4 @@ Conducted manual testing and documented test cases to ensure system reliability 
 
 Score: *8.3/10*
 
-Core Skills: Java, Spring Boot, SQL, Redis, RESTful API Development, Email Integration (Gmail SMTP), Unit Testing with Mockito and JUnit, Business Analysis, Documentation, Manual Testing
+Core Skills: Java, Spring Boot, SQL, Redis, RESTful API Development, Email Integration (Gmail SMTP), Unit Testing with Mockito and JUnit, Business Analysis, Documentation, Manual, Automation Testing
